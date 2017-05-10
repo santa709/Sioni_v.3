@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Roboto Regular; /* Гарнитура шрифта */
+    src: url(../fonts/roboto-regular_[allfont.ru].ttf); /* Путь к файлу со шрифтом */
+   }
+body {
+    font-family: 'Roboto Regular', arial;
+}
